@@ -58,6 +58,32 @@ LangChain · LlamaIndex · CrewAI
 ChromaDB · Pinecone
 </div>
 
+## 🚀 Serving & Deployment
+<div align="center">
+<img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Ray%20Serve-028CF0?style=for-the-badge&logo=ray&logoColor=white" />
+<img src="https://img.shields.io/badge/vLLM-1A1A1A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/TGI-FFD21E?style=for-the-badge&logoColor=black" />
+
+BentoML · Ray Serve · vLLM · TGI (Text Generation Inference)
+</div>
+
+## 🔄 Orchestration
+<div align="center">
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+Airflow · Prefect · Kubeflow
+</div>
+
+## 📊 Monitoring
+<div align="center">
+<img src="https://img.shields.io/badge/Evidently%20AI-FF4B4B?style=for-the-badge&logoColor=white" />
+
+Evidently AI
+</div>
+
 ## ⚙️ Backend
 <div align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
