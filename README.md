@@ -60,16 +60,16 @@ ChromaDB · Pinecone
 
 ## ⚙️ Backend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
 
-**FastAPI** · Node.js · Express · Django · Flask · REST APIs
+**FastAPI** · Node.js · Express · REST APIs
 </div>
 
 ## 🎨 Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,bootstrap,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind&theme=dark" />
 
-Angular · React · Vue.js · Next.js · Bootstrap · Tailwind CSS
+React · Vue.js · Next.js · Bootstrap · Tailwind CSS
 </div>
 
 ## 🗄️ Databases
