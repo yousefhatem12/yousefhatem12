@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=140&section=header" width="100%"/>
 
 <a href="https://github.com/yousefhatem12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1500&color=22C55E&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Lordo!" alt="Typing SVG name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1500&color=22C55E&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I+am+Yousef+Hatem!" alt="Typing SVG name" />
 </a>
 
 <a href="https://github.com/yousefhatem12">
@@ -38,6 +38,8 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,php,html,css&theme=dark" />
+
+Python · C++ · C# · JavaScript · TypeScript · PHP · HTML5 · CSS3
 </div>
 
 ## 🧠 AI / ML
@@ -45,7 +47,7 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
 
-pandas · seaborn · NLP · OCR · document intelligence · local & server-side LLMs
+TensorFlow · PyTorch · scikit-learn · OpenCV · pandas · seaborn · NLP · OCR · document intelligence · local & server-side LLMs
 </div>
 
 ## ⚙️ Backend
@@ -53,48 +55,31 @@ pandas · seaborn · NLP · OCR · document intelligence · local & server-side 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,flask&theme=dark" />
 
-**FastAPI** · Node.js · Express · Django · REST APIs
+**FastAPI** · Node.js · Express · Django · Flask · REST APIs
 </div>
 
 ## 🎨 Frontend
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,bootstrap,tailwind&theme=dark" />
+
+Angular · React · Vue.js · Next.js · Bootstrap · Tailwind CSS
 </div>
 
 ## 🗄️ Databases
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,elasticsearch&theme=dark" />
+
+MongoDB · MySQL · PostgreSQL · Redis · SQLite · Elasticsearch
 </div>
 
 ## 🧰 DevOps & Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,postman,jest,kafka,linux,azure,figma,firebase,arduino&theme=dark" />
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:1e293b&height=2&section=header" width="100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yousefhatem12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefhatem12&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefhatem12&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:1e293b&height=2&section=header" width="100%"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yousefhatem12/yousefhatem12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
+Docker · Git · Postman · Jest · Kafka · Linux · Azure · Figma · Firebase · Arduino
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer" width="100%"/>
