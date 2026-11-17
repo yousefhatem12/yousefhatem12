@@ -93,7 +93,7 @@ Evidently AI
 
 ## 🎨 Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" />
 
 React · Bootstrap · Tailwind CSS
 </div>
