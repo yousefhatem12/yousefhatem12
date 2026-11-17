@@ -95,7 +95,7 @@ Evidently AI
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind&theme=dark" />
 
-React · Vue.js · Next.js · Bootstrap · Tailwind CSS
+React · Bootstrap · Tailwind CSS
 </div>
 
 ## 🗄️ Databases
